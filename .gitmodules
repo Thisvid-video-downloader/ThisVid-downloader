@@ -1,0 +1,3 @@
+[submodule "ThisVid-downloader.github.io"]
+    path = ThisVid-downloader.github.io
+    url = https://github.com/thisvid-video-downloader/ThisVid-downloader.github.io.git
